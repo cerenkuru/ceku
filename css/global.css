@@ -1,0 +1,64 @@
+/* Text */
+.text-center {
+    text-align: center;
+}
+.heading-small {
+    font-size: 0.75rem;
+}
+.heading-medium {
+    font-size: 1rem
+}
+.heading-big {
+    font-size: 1.40rem;
+}
+/*Colors*/
+
+.bg-dark-yellow {
+    background: #a55307;
+}
+.bg-light-yellow {
+    background:#f5d272;
+}
+.bg-medium-yellow {
+    background: #c37e17;
+}
+/*container*/
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.name {
+    padding-left: 2rem;
+    margin-left: 5rem;
+}
+.vızcell {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+audio {
+    padding-top: 1rem;
+    padding-left: 1.5rem;
+    height: 40px;
+    max-width: 350px;
+    
+    
+}
+audio::-webkit-media-controls-play-button,
+audio::-webkit-media-controls-panel {
+  background-color: #c8792f;
+  color:#f5d272;
+  font-style: italic;
+}
+
+.mini-info {
+    
+    font-size: x-small;
+    color: #965110;
+    font-style:italic ;
+    font-weight: bolder;
+    padding-top: 3rem;
+    padding-left: 1rem;
+    padding-bottom: 0px;
+}
+
